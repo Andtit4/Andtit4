@@ -2,16 +2,14 @@
 
 ###
 
-<h3 align="left">I am mob!le developper 😅, cod!ng my l!fe ❤️</h3>
+<h3 align="left">I am mob!le developper 😅, cod!ng my l!fe </h3>
 
 
 # 🙋‍♂️ **About Me**
 
 -   ✨ **I love coding bots**
--   🚩 **I'm CTF player [Capture the flag]**
--   🚩 **I'm KOTH player [King Of The Hill]**
--   👨‍💻 **I’m currently working as Sysadmin**
--   🎲 **fact : Keyboard shortcuts are my best friends**
+-   ❤️ **I'm lov!ng art!f!c!al !ntell!gency**
+-   👨‍💻 **I’m freelancer web and mobile developper**
 
 <!-- ![Github commit](https://github-readme-stats.vercel.app/api?username=Andtit4) -->
 
