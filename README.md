@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I am mob!le developper 😅, cod!ng my l!fe </h3>
+<h3 align="left">I am mob!le / web developper 😅, cod!ng my l!fe </h3>
 
 
 # 🙋‍♂️ **About Me**
