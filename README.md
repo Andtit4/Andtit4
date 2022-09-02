@@ -33,6 +33,7 @@
     <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=blue" />
     <img src="https://img.shields.io/badge/Flutter-0096c7?style=for-the-badge&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/Php-white?style=for-the-badge&logo=php&logoColor=735d78" />
+    <img src="https://img.shields.io/badge/tensorflow-ff9770?style=for-the-badge&logo=tensorflow&logoColor=735d78" />
     <img src="https://img.shields.io/badge/React-023e8a?style=for-the-badge&logo=react&logoColor=white" />
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
