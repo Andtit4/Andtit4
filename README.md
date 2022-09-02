@@ -1,8 +1,10 @@
-### Hi there 👋
+### Salut !👋
 
-
-**Andtit4/Andtit4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moi c'est
+**Andtit4** is a ✨ _special_ ✨ 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Andtit4)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
