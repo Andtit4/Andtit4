@@ -32,7 +32,7 @@
     <img src="https://img.shields.io/badge/JavaScript-ffd166?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Flutter-0096c7?style=for-the-badge&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-023e8a?style=for-the-badge&logo=react&logoColor=white" />
    <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=whitee" />
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
