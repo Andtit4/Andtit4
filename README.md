@@ -6,10 +6,10 @@
 <!-- ![counter](https://[YourEndpoint].m.pipedream.net) -->
 
 
-         |                                
-         | * - 📫 Mobile / Web Developer  
-Am ===>  |  - 😄 Web ==> VueJs / React    
-         |  - ⚡ Mobile ==> Flutter     *  
+                                        
+*- 📫 Mobile / Web Developer  
+- 😄 Web ==> VueJs / React    
+- ⚡ Mobile ==> Flutter *  
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
