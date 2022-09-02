@@ -7,9 +7,9 @@
 
 
                                         
-*- 📫 Mobile / Web Developer  
-- 😄 Web ==> VueJs / React    
-- ⚡ Mobile ==> Flutter *  
+- 📫 *Mobile / Web Developer*  
+- 😄 *Web ==> VueJs / React*    
+- ⚡ *Mobile ==> Flutter*  
 
 <!-- - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
