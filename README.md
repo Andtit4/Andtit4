@@ -28,10 +28,8 @@
 
 <div align="left">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Dart-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-    <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=Vagrant&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-ffffff?style=for-the-badge&logo=dart&logoColor=blue" />
+    <img src="https://img.shields.io/badge/JavaScript-ffd166?style=for-the-badge&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
     <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
