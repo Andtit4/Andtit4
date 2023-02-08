@@ -11,10 +11,6 @@
 -   ❤️ **I'm lov!ng art!f!c!al !ntell!gency**
 -   👨‍💻 **I’m freelancer web and mobile developper**
 
-<!-- ![Github commit](https://github-readme-stats.vercel.app/api?username=Andtit4) -->
-
-
-<!-- ![counter](https://[YourEndpoint].m.pipedream.net) -->
 
 
 <div align="left">
