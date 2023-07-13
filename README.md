@@ -12,7 +12,6 @@
 -   👨‍💻 **I’m freelancer web and mobile developper**
 
 
-<img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=U4i5&theme=algolia&show_icons=true" />
 
 
 <div align="left">
