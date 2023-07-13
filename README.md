@@ -33,6 +33,12 @@
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
+
+
+# **My stats**
+
+<img align="left" height="160" src="https://github-readme-stats.vercel.app/api?username=U4i5&theme=algolia&show_icons=true" />
+
                                         
 
 
